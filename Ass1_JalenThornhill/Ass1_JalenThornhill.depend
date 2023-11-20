@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1699735394 source:d:\code-wars\7kyu\ass1_jalenthornhill\hangmangame.cpp
+	"HangmanGame.h"
+	<iostream>
+
+1699735180 d:\code-wars\7kyu\ass1_jalenthornhill\hangmangame.h
+	<vector>
+	<string>
+
+1699736772 source:d:\code-wars\7kyu\ass1_jalenthornhill\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	"HangmanGame.h"
+
+1699735394 source:e:\code-wars\7kyu\ass1_jalenthornhill\hangmangame.cpp
+	"HangmanGame.h"
+	<iostream>
+
+1699735180 e:\code-wars\7kyu\ass1_jalenthornhill\hangmangame.h
+	<vector>
+	<string>
+
+1699736772 source:e:\code-wars\7kyu\ass1_jalenthornhill\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	"HangmanGame.h"
+
